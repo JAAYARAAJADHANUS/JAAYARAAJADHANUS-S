@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm JAAYARAAJADHANUS-S</h1>
-<h3 align="center">A passionate IOT Developer and DeepRacer Participant from India</h3>
+<h3 align="center">A passionate IOT Developer,3D Model Designer and AWS DeepRacer Participant from India</h3>
 
-- 🔭 I’m currently studding **B.E. Mechanical Engineering**
+- 🔭 I’m currently studding **B.E.Mechanical Engineering**
 
-- 🌱 I’m currently learning **AI/ML,NLP**
+- 🌱 I’m currently learning **AI/ML, NLP, SOLIDWORKS, AutoCAD, Fusion360**
 
 - 📫 How to reach me **jaayaraajadhanus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jaayaraajadhanus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaayaraajadhanus s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jaayaraajadhanus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaayaraajadhanus" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20886852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20886852" height="30" width="40" /></a>
+<a href="https://kaggle.com/jaayaraajadhanus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaayaraajadhanus" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaayaraajadhanus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaayaraajadhanus" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@jaayaraajadhanus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jaayaraajadhanus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
