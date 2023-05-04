@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm JAAYARAAJADHANUS-S</h1>
-<h3 align="center">A passionate IOT Developer,3D Model Designer and AWS DeepRacer Participant from India</h3>
+<h1 align="center">Hi 👋, I'm JAAYARAAJADHANUS S</h1>
+<h3 align="center">A passionate IOT Developer, 3D Model Designer and AWS DeepRacer Participant from India</h3>
 
 - 🔭 I’m currently studding **B.E.Mechanical Engineering**
 
